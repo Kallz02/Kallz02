@@ -15,7 +15,7 @@ I am a Developer who loves working with New Things and messing around with conta
 
 
 
-<p float="left" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kallz02&show_icons=true&locale=en&layout=compact&theme=radical" alt="kallz02" />
+<p float="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kallz02&show_icons=true&locale=en&layout=compact&theme=radical" alt="kallz02" />
 
 ![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kallz02&show_icons=true&theme=radical)
 </p>
