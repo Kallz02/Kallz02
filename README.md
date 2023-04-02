@@ -15,8 +15,9 @@ I am a Developer who loves working with New Things and messing around with conta
 
 
 
-<p float="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kallz02&show_icons=true&locale=en&layout=compact&theme=radical" alt="kallz02" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Kallz02&show_icons=true&theme=radical"/>
+<p float="center" >
+   <img src="https://github-readme-stats.vercel.app/api?username=Kallz02&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kallz02&show_icons=true&locale=en&layout=compact&theme=radical" alt="kallz02" />
 </p>
 <!--
 **Kallz02/Kallz02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
