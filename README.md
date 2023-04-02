@@ -1,5 +1,10 @@
-# Akshay Kalathil 🐲
+#  🐲 Akshay Kalathil
 ### Software Developer
+
+I am a Developer who loves working with New Things and messing around with containers,linux and other cool tech stuff,I Always try to understand the underlying principles behind concepts in my code and try to implement things in the simplest ways possible
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akshay-kalathil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay-kalathil" height="30" width="40" /></a>
